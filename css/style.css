@@ -3,7 +3,7 @@
     --primary: rgb(28,61,37);
     --secondary: #FF6922;
     --light: #EFFDF5;
-    --dark: #0E2E50;
+    --dark: #556809;
 }
 
 .back-to-top {
@@ -170,7 +170,7 @@
 
 .header-carousel .owl-nav {
     position: absolute;
-    top: 50%;
+    top: 50%;    
     left: -25px;
     transform: translateY(-50%);
     display: flex;
